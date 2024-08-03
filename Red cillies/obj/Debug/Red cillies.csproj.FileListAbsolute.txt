@@ -1,0 +1,29 @@
+C:\Users\USER\source\repos\Red cillies\Red cillies\bin\Debug\Red cillies.exe.config
+C:\Users\USER\source\repos\Red cillies\Red cillies\bin\Debug\Red cillies.exe
+C:\Users\USER\source\repos\Red cillies\Red cillies\bin\Debug\Red cillies.pdb
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red_cillies.Form1.resources
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red_cillies.Properties.Resources.resources
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red cillies.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red cillies.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red cillies.exe
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red cillies.pdb
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red_cillies.Form2.resources
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red cillies.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red_cillies.Product.resources
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red_cillies.Customer.resources
+C:\Users\USER\source\repos\Red cillies\Red cillies\obj\Debug\Red_cillies.Supplier.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Customer.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Form1.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Form2.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Product.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Properties.Resources.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Supplier.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red cillies.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red cillies.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red cillies.exe
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red cillies.pdb
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\Red cillies.exe.config
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\Red cillies.exe
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\Red cillies.pdb
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Purchase.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red cillies.csprojAssemblyReference.cache

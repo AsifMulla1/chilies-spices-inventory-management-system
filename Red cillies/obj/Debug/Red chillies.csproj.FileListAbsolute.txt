@@ -1,0 +1,274 @@
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\Red cillies.exe.config
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\Red cillies.exe
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\Red cillies.pdb
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red chillies.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Customer.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Form1.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Form2.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Product.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Properties.Resources.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Purchase.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Supplier.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red chillies.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red chillies.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red cillies.exe
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red cillies.pdb
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\stdole.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red chillies.csproj.CopyComplete
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.CustBill.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.List_Product.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.List_Supplier.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.List_customer.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.List_CustBill.resources
+C:\Users\USER\source\repos\welcom to vck\Red cillies\Red cillies\obj\Debug\Red_cillies.Reports.r.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red chillies.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.CustBill.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.Customer.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.Form1.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.Form2.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.List_customer.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.List_Product.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.List_Supplier.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.Product.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.List_CustBill.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.Purchase.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.Reports.r.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red_cillies.Supplier.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red chillies.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red chillies.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red cillies.pdb
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\Red cillies.exe.config
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\Red cillies.pdb
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\stdole.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies\Red cillies\obj\Debug\Red chillies.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.CustBill.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.Customer.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.Form1.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.Form2.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.List_customer.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.List_Product.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.List_Supplier.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.Product.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.List_CustBill.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.Purchase.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.Reports.r.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.Supplier.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red chillies.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red chillies.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red cillies.pdb
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\Red cillies.exe.config
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\Red cillies.pdb
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\stdole.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red chillies.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red chillies.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.MDI.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.rpt_Prod.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.rpt_Cust.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.rpt_Supp.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.rpt_Purch.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.rpt_Bill.resources
+C:\Users\USER\OneDrive\Desktop\Red cillies - Copy\Red cillies\obj\Debug\Red_cillies.Date_Wise_Bill.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\Red cillies.exe.config
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\Red cillies.pdb
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\stdole.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.CustBill.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.Customer.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.Date_Wise_Bill.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.Form1.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.Form2.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.List_customer.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.List_Product.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.List_Supplier.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.MDI.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.Product.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.List_CustBill.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.Purchase.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.Reports.r.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.rpt_Bill.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.rpt_Cust.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.rpt_Prod.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.rpt_Purch.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.rpt_Supp.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red_cillies.Supplier.resources
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red chillies.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red chillies.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red chillies.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red cillies.pdb
+C:\Users\USER\OneDrive\Desktop\Final pro\Red cillies\obj\Debug\Red chillies.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\Red cillies.exe.config
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\Red cillies.pdb
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\stdole.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.CustBill.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Customer.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Date_Wise_Bill.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Form1.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Form2.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.List_customer.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.List_Product.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.List_Supplier.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.MDI.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Product.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.List_CustBill.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Purchase.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Reports.r.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Bill.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Cust.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Prod.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Purch.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Supp.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Supplier.resources
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red chillies.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red chillies.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red chillies.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red cillies.pdb
+C:\Users\USER\OneDrive\Desktop\Final Year Project BCS\Red cillies\obj\Debug\Red chillies.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\Red cillies.exe.config
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\Red cillies.pdb
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\stdole.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red chillies.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.CustBill.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Customer.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Date_Wise_Bill.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Form1.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Form2.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.List_customer.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.List_Product.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.List_Supplier.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.MDI.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Product.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.List_CustBill.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Purchase.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Reports.r.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Bill.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Cust.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Prod.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Purch.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.rpt_Supp.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red_cillies.Supplier.resources
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red chillies.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red chillies.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red chillies.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red cillies.exe
+C:\Users\USER\OneDrive\Documents\Comtrans Notes & Projects\ForGit Hub\Final Year Project BCS\Red cillies\obj\Debug\Red cillies.pdb
